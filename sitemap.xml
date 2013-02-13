@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://loveling.github.com/blog/2013/02/13/happy-valentines-day/</loc>
+        <lastmod>2013-02-13T17:20:12+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://loveling.github.com/archives/</loc>
-        <lastmod>2013-02-13T12:11:32+08:00</lastmod>
+        <lastmod>2013-02-13T17:20:12+08:00</lastmod>
     </url>
     <url>
         <loc>http://loveling.github.com/</loc>
-        <lastmod>2013-02-13T12:11:32+08:00</lastmod>
+        <lastmod>2013-02-13T17:20:12+08:00</lastmod>
     </url>
 </urlset>
